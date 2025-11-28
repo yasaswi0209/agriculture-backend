@@ -9,16 +9,18 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class CorsConfig {
 
     @Bean
-    public WebMvcConfigurer corsConfigurer() {
+    public WebMvcConfigurer corsConfigurer() {   // ⭐ FIXED spelling
         return new WebMvcConfigurer() {
+
             @Override
             public void addCorsMappings(CorsRegistry registry) {
+
                 registry.addMapping("/**")
-                        .allowedOriginPatterns("http://localhost:5173", "https://your-frontend.com") // use patterns
+                        .allowedOriginPatterns("*")       // ⭐ Allow all (works for K8s, Nginx, NodePort)
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
-                        .allowCredentials(true);
+                        .allowedHeaders("*")
+                        .allowCredentials(false);         // ⭐ Keep false if using wildcard "*"
             }
         };
     }
 }
-

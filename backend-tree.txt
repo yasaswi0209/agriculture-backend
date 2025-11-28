@@ -1,0 +1,294 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0A23-1500
+C:.
+¦   .classpath
+¦   .project
+¦   backend-tree.txt
+¦   Dockerfile
+¦   mvnw
+¦   mvnw.cmd
+¦   package-lock.json
+¦   pom.xml
+¦   
++---.metadata
+¦   ¦   .lock
+¦   ¦   .lock_info
+¦   ¦   .log
+¦   ¦   version.ini
+¦   ¦   
+¦   +---.mylyn
+¦   ¦       repositories.xml.zip
+¦   ¦       
+¦   +---.plugins
+¦       +---org.eclipse.buildship.core
+¦       ¦   +---gradle
+¦       ¦           versions.json
+¦       ¦           
+¦       +---org.eclipse.core.resources
+¦       ¦   +---.projects
+¦       ¦   ¦   +---.org.eclipse.egit.core.cmp
+¦       ¦   ¦           .location
+¦       ¦   ¦           
+¦       ¦   +---.root
+¦       ¦   ¦   ¦   1.tree
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---.indexes
+¦       ¦   ¦           history.version
+¦       ¦   ¦           properties.index
+¦       ¦   ¦           properties.version
+¦       ¦   ¦           
+¦       ¦   +---.safetable
+¦       ¦           org.eclipse.core.resources
+¦       ¦           
+¦       +---org.eclipse.core.runtime
+¦       ¦   +---.settings
+¦       ¦           Docker.prefs
+¦       ¦           org.eclipse.ant.ui.prefs
+¦       ¦           org.eclipse.core.resources.prefs
+¦       ¦           org.eclipse.debug.ui.prefs
+¦       ¦           org.eclipse.egit.core.prefs
+¦       ¦           org.eclipse.jdt.ui.prefs
+¦       ¦           org.eclipse.jsch.core.prefs
+¦       ¦           org.eclipse.m2e.apt.prefs
+¦       ¦           org.eclipse.m2e.discovery.prefs
+¦       ¦           org.eclipse.mylyn.context.core.prefs
+¦       ¦           org.eclipse.mylyn.monitor.ui.prefs
+¦       ¦           org.eclipse.mylyn.tasks.ui.prefs
+¦       ¦           org.eclipse.ui.editors.prefs
+¦       ¦           org.eclipse.ui.ide.prefs
+¦       ¦           org.eclipse.ui.navigator.prefs
+¦       ¦           org.eclipse.ui.workbench.prefs
+¦       ¦           org.eclipse.wst.sse.ui.prefs
+¦       ¦           org.springframework.ide.eclipse.boot.dash.prefs
+¦       ¦           org.springframework.ide.eclipse.imports.prefs
+¦       ¦           org.springsource.ide.eclipse.commons.ui.prefs
+¦       ¦           
+¦       +---org.eclipse.e4.workbench
+¦       ¦       workbench.xmi
+¦       ¦       
+¦       +---org.eclipse.egit.core
+¦       ¦   +---.org.eclipse.egit.core.cmp
+¦       ¦       ¦   .project
+¦       ¦       ¦   
+¦       ¦       +---.settings
+¦       ¦               org.eclipse.core.resources.prefs
+¦       ¦               
+¦       +---org.eclipse.jdt.core
+¦       ¦       assumedExternalFilesCache
+¦       ¦       externalFilesCache
+¦       ¦       javaLikeNames.txt
+¦       ¦       nonChainingJarsCache
+¦       ¦       variablesAndContainers.dat
+¦       ¦       
+¦       +---org.eclipse.jdt.ui
+¦       ¦       dialog_settings.xml
+¦       ¦       OpenTypeHistory.xml
+¦       ¦       QualifiedTypeNameHistory.xml
+¦       ¦       
+¦       +---org.eclipse.m2e.core
+¦       ¦       workspaceState.ser
+¦       ¦       
+¦       +---org.eclipse.m2e.core.ui
+¦       ¦       dialog_settings.xml
+¦       ¦       
+¦       +---org.eclipse.m2e.logback
+¦       ¦       0.log
+¦       ¦       logback.2.7.100.20250418-1315.xml
+¦       ¦       
+¦       +---org.eclipse.pde.core
+¦       ¦   +---.cache
+¦       ¦           clean-cache.properties
+¦       ¦           
+¦       +---org.eclipse.tips.ide
+¦       ¦       dialog_settings.xml
+¦       ¦       
+¦       +---org.eclipse.ui.ide
+¦       ¦       dialog_settings.xml
+¦       ¦       
+¦       +---org.eclipse.ui.workbench
+¦               dialog_settings.xml
+¦               workingsets.xml
+¦               
++---.mvn
+¦   +---wrapper
+¦           maven-wrapper.properties
+¦           
++---.settings
+¦       org.eclipse.core.resources.prefs
+¦       org.eclipse.jdt.apt.core.prefs
+¦       org.eclipse.jdt.core.prefs
+¦       org.eclipse.m2e.core.prefs
+¦       org.eclipse.wst.common.component
+¦       org.eclipse.wst.common.project.facet.core.xml
+¦       org.eclipse.wst.validation.prefs
+¦       org.springframework.ide.eclipse.prefs
+¦       
++---src
+¦   +---main
+¦   ¦   +---java
+¦   ¦   ¦   +---com
+¦   ¦   ¦   ¦   +---klu
+¦   ¦   ¦   ¦       +---ecommerce
+¦   ¦   ¦   ¦           ¦   EcommerceApplication.java
+¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦           +---config
+¦   ¦   ¦   ¦           ¦       CorsConfig.java
+¦   ¦   ¦   ¦           ¦       DataInitializer.java
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---controller
+¦   ¦   ¦   ¦           ¦       AuthController.java
+¦   ¦   ¦   ¦           ¦       ProductController.java
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---entity
+¦   ¦   ¦   ¦           ¦       Product.java
+¦   ¦   ¦   ¦           ¦       User.java
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---repository
+¦   ¦   ¦   ¦           ¦       ProductRepository.java
+¦   ¦   ¦   ¦           ¦       UserRepository.java
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---security
+¦   ¦   ¦   ¦           ¦       JwtUtil.java
+¦   ¦   ¦   ¦           ¦       SecurityConfig.java
+¦   ¦   ¦   ¦           ¦       UserDetailsServiceImpl.java
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---service
+¦   ¦   ¦   ¦                   ProductService.java
+¦   ¦   ¦   ¦                   UserService.java
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---uploads
+¦   ¦   ¦           apple.jpg
+¦   ¦   ¦           banana.jpg
+¦   ¦   ¦           barley.jpg
+¦   ¦   ¦           Beans.jpg
+¦   ¦   ¦           brocoli.jpg
+¦   ¦   ¦           cabbage.jpg
+¦   ¦   ¦           capscium.jpg
+¦   ¦   ¦           carrot.jpg
+¦   ¦   ¦           cauliflower.jpg
+¦   ¦   ¦           corn.jpg
+¦   ¦   ¦           grapes.jpg
+¦   ¦   ¦           kiwi.jpg
+¦   ¦   ¦           mango.jpg
+¦   ¦   ¦           onion.jpg
+¦   ¦   ¦           orange.jpg
+¦   ¦   ¦           peach.jpg
+¦   ¦   ¦           peas.jpg
+¦   ¦   ¦           pineapple.jpg
+¦   ¦   ¦           potato.jpg
+¦   ¦   ¦           raddish.jpg
+¦   ¦   ¦           rice.jpg
+¦   ¦   ¦           soybean.jpg
+¦   ¦   ¦           spinach.jpg
+¦   ¦   ¦           strawberry.jpg
+¦   ¦   ¦           tomato.jpg
+¦   ¦   ¦           watermelon.jpg
+¦   ¦   ¦           wheat.jpg
+¦   ¦   ¦           
+¦   ¦   +---resources
+¦   ¦           application.properties
+¦   ¦           
+¦   +---test
+¦       +---java
+¦           +---com
+¦               +---klu
+¦                   +---ecommerce
+¦                           EcommerceApplicationTests.java
+¦                           
++---target
+¦   ¦   ecommerce-1.0.0.jar
+¦   ¦   ecommerce-1.0.0.jar.original
+¦   ¦   
+¦   +---classes
+¦   ¦   ¦   application.properties
+¦   ¦   ¦   
+¦   ¦   +---com
+¦   ¦       +---klu
+¦   ¦           +---ecommerce
+¦   ¦               ¦   EcommerceApplication.class
+¦   ¦               ¦   
+¦   ¦               +---config
+¦   ¦               ¦       CorsConfig$1.class
+¦   ¦               ¦       CorsConfig.class
+¦   ¦               ¦       DataInitializer.class
+¦   ¦               ¦       
+¦   ¦               +---controller
+¦   ¦               ¦       AuthController$LoginRequest.class
+¦   ¦               ¦       AuthController$SignupRequest.class
+¦   ¦               ¦       AuthController.class
+¦   ¦               ¦       ProductController.class
+¦   ¦               ¦       
+¦   ¦               +---entity
+¦   ¦               ¦       Product.class
+¦   ¦               ¦       User.class
+¦   ¦               ¦       
+¦   ¦               +---repository
+¦   ¦               ¦       ProductRepository.class
+¦   ¦               ¦       UserRepository.class
+¦   ¦               ¦       
+¦   ¦               +---security
+¦   ¦               ¦       JwtUtil.class
+¦   ¦               ¦       SecurityConfig.class
+¦   ¦               ¦       UserDetailsServiceImpl.class
+¦   ¦               ¦       
+¦   ¦               +---service
+¦   ¦                       ProductService.class
+¦   ¦                       UserService.class
+¦   ¦                       
+¦   +---generated-sources
+¦   ¦   +---annotations
+¦   +---generated-test-sources
+¦   ¦   +---test-annotations
+¦   +---maven-archiver
+¦   ¦       pom.properties
+¦   ¦       
+¦   +---maven-status
+¦   ¦   +---maven-compiler-plugin
+¦   ¦       +---compile
+¦   ¦       ¦   +---default-compile
+¦   ¦       ¦           createdFiles.lst
+¦   ¦       ¦           inputFiles.lst
+¦   ¦       ¦           
+¦   ¦       +---testCompile
+¦   ¦           +---default-testCompile
+¦   ¦                   createdFiles.lst
+¦   ¦                   inputFiles.lst
+¦   ¦                   
+¦   +---test-classes
+¦       +---com
+¦           +---klu
+¦               +---ecommerce
+¦                       EcommerceApplicationTests.class
+¦                       
++---uploads
+        3f44b137-6c85-45c0-a6c1-e5c9788bb7d9_mango.jpg
+        5eefcab1-f0fd-45ae-ab0d-34e8129264a7_dragon-fruit.jpg
+        8559161a-35e4-4a3e-9fed-df47679ffe57_dragon-fruit.jpg
+        apple.jpg
+        banana.jpg
+        barley.jpg
+        bellpepper.jpg
+        broccoli.jpg
+        cabbage.jpg
+        carrot.jpg
+        cauliflower.jpg
+        corn.jpg
+        grapes.jpg
+        greenbeans.jpg
+        kiwi.jpg
+        mango.jpg
+        onion.jpg
+        orange.jpg
+        peach.jpg
+        peas.jpg
+        pineapple.jpg
+        potato.jpg
+        radish.jpg
+        rice.jpg
+        soybean.jpg
+        spinach.jpg
+        strawberry.jpg
+        tomato.jpg
+        watermelon.jpg
+        wheat.jpg
+        
